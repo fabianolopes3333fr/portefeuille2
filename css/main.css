@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css');
+@import url(./bootstrap.min.css);
+@import url(./config.css);
+@import url(./global.css);
+@import url(./custon.css);
+@import url(./responsive.css);
+=======
+@import url(bootstrap.min.css);
+@import url(config.css);
+@import url(global.css);
+@import url(custom.css);
+@import url(responsive.css);
+>>>>>>> e52ce86bcc69dbfff3a3becb73632082cf891d07

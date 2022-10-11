@@ -1,0 +1,53 @@
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+}
+a {
+    color: var(--primary-purple-900);
+    
+}
+a:hover {
+    color: var(--primary-depe-purple-400);
+}
+.title {
+    text-transform: uppercase;
+}
+.subtitle {
+    color:var(--fonts-700);
+    font-weight: 400;
+    
+}
+.block {
+    margin-bottom: 100px;
+}
+
+.button {
+    text-transform: lowercase;
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+}
+.button-primay {
+    background-color: var(--primary-purple-500);
+    border-color: var(--secundary-depe-purple-100);
+    border-bottom:solid 5px var(--primary-purple-900);
+    
+}
+.button-primay:hover {
+    background-color: var(--primary-purple-900);
+    border-color: var(--primary-depe-purple-600);
+
+
+}
+.button-primary-outline {
+    border-color: var(--primary-purple-500);
+    color: var(--fonts-800);
+
+}
+.button-primary-outline:hover {
+    border-color: var(--primary-purple-900);
+    background-color: var(--primary-purple-500);
+}
+.owl-teme .owl-dots .owl-dot.active span,
+.owl-teme .owl-dots .owl-dot:hover span {
+    background: var(--secundary-depe-purple-100);
+}
